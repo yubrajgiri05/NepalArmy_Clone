@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.l{
+    float: left;
+}
+.r{
+    float:right ;
+}
+.clear{
+    clear: both;
+}
+body{
+    background:#0E1E1C;
+}
+.con{
+    width: 1200px;
+    margin: auto;
+    background: white;
+}
+nav{
+    background: #BE9660;
+    line-height: 50px;
+}
+nav ul li{
+    display: inline;
+} 
+nav ul li a{
+    color:brown;
+    padding: 10px;
+    border-right: 1px solid white;
+}
+.left{
+    width: 70%;
+    background: white;
+}
+.right{
+    width: 27%;
+    background: white;
+}
+.caption{
+    background: #1D3E1E;
+    color: white;
+    padding: 25px;
+}
+.caption h4{
+    border-bottom: 2px solid white;
+    padding: 5px;
+}
+.rbox{
+    border: 1px solid white;
+}
+.rbox h4{
+    background-color: brown;
+    color: white;
+    padding: 10px;
+}
+.thumb{
+    width: 40%;
+}
+
+.thumc{
+    font-size: 12px;
+    width: 55%;
+    background: white;
+}
+.b{
+    margin: 10px 0;
+    border-bottom: 1px solid white;
+}
+.b img{
+    size: 50%;
+}
+.text{
+    padding-top: 10px;
+    text-align: center;
+}
+.one{
+    padding-top: 20px;
+    width: 48%;
+}
+.two{
+    width: 48%;
+}
+.box{
+    border: 2px solid white;
+    background:green;
+    color: aliceblue;
+    width: 180px;
+    height: 40px;
+    margin-top: 15px;
+}
+.box h5{
+    color: white;
+    padding-top: 10px;
+    text-align: center;
+    margin:5px;
+}
+.table p{
+    padding: 10px 0 10px 5px;
+}
+.box2{
+    border: 1px black solid;
+    background:#F39C12;
+    height: 40px;
+    width: 200px;
+}
+.box2 h5{
+    color: white;
+    padding-top: 10px;
+    text-align: center;
+    margin:5px;
+}
+.inline{
+    display: inline;
+}
+.yub{
+    height: 1500px;
+    width: 100px;
+}
